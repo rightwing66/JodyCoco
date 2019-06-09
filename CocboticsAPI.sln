@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29001.49
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CocboticsAPI", "CocboticsAPI\CocboticsAPI.csproj", "{D2A8C4EB-7306-4834-ABCB-BE5CCC487325}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CocoaTaskManager", "CocoaTaskManager\CocoaTaskManager.csproj", "{10078789-9A03-4EFF-B06E-985E7C838AF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2A8C4EB-7306-4834-ABCB-BE5CCC487325}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2A8C4EB-7306-4834-ABCB-BE5CCC487325}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2A8C4EB-7306-4834-ABCB-BE5CCC487325}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2A8C4EB-7306-4834-ABCB-BE5CCC487325}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10078789-9A03-4EFF-B06E-985E7C838AF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10078789-9A03-4EFF-B06E-985E7C838AF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10078789-9A03-4EFF-B06E-985E7C838AF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10078789-9A03-4EFF-B06E-985E7C838AF1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87F4B272-41F9-48BF-B6FE-2538DBB47838}
+	EndGlobalSection
+EndGlobal
